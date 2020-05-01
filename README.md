@@ -1,2 +1,9 @@
 # RPA_Challenge_InputForms
-Inputs data from an excel sheet to a webpage that keeps changing position of  the places that the robot need to input data everytime submit button is clicked. The issue with the positions is solved by using a anchor base to each data that needs to be inputed on the website.
+
+The Robot inputs data from an excel sheet to a webpage that keeps changing position of  the places that the robot need to input data everytime submit button is clicked. The issue with the positions is solved by using a anchor base to each data that needs to be inputed on the website.This is a practice robot and a challenge that can be found here: http://rpachallenge.com/
+
+Instructions
+
+1. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the screen.
+2. Beware! The fields will change position on the screen after every submission throughout 10 rounds thus the workflow must correctly identify where each spreadsheet record must be typed every time.
+3. The actual countdown of the challenge will begin once you click the Start button until then you may submit the form as many times as you wish without receiving penalties.
